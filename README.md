@@ -24,7 +24,8 @@ Each part has been deployed separately to Github pages at the following links:
 4.	Display the sample metadata, i.e., an individual's demographic information.
 5.	Display each key-value pair from the metadata JSON object somewhere on the page.
 6.	Update all of the plots any time that a new sample is selected.
-
+ 
+  
 ##    The Output from Step 1: Plotly is as follows: 
 **Test Subject ID No.: 940 - Top Half – Screen 1**
 ![image](https://user-images.githubusercontent.com/89948865/157533400-a36d85c3-5647-4919-a60d-2e51bf462903.png)
@@ -38,11 +39,14 @@ Each part has been deployed separately to Github pages at the following links:
 **Test Subject ID No.: 955 - Bottom Half – Screen 2**
 ![image](https://user-images.githubusercontent.com/89948865/157533606-d9bea3b2-20d6-4f4b-95cc-62eb780c9d92.png)
  
+  
+  
 ##    Step 2: Advanced Challenge Assignment (Optional) requirement was to: - 
 1.	Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
 2.	You need to modify the example gauge code to account for values ranging from 0 through 9.
 3.	Update the chart whenever a new sample is selected.
-
+ 
+ 
 ##    The Output from Step 2: Advanced Challenge is as follows: 
 **Test Subject ID No.: 940 - Top Half – Screen 1**
 ![image](https://user-images.githubusercontent.com/89948865/157533996-98d3669a-d385-4c2b-b3cf-536ca35487b8.png) 
