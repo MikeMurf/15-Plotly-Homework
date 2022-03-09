@@ -45,13 +45,15 @@ Each part has been deployed separately to Github pages at the following links:
 
 ##    The Output from Step 2: Advanced Challenge is as follows: 
 **Test Subject ID No.: 940 - Top Half – Screen 1**
- 
+![image](https://user-images.githubusercontent.com/89948865/157533996-98d3669a-d385-4c2b-b3cf-536ca35487b8.png) 
 
 **Test Subject ID No.: 940 - Bottom Half – Screen 2** 			
+![image](https://user-images.githubusercontent.com/89948865/157534052-3b2b70f5-a302-4f6d-98f5-a1db96998ecc.png)
 
 **Test Subject ID No.: 955 - Top Half – Screen 1**
- 
+![image](https://user-images.githubusercontent.com/89948865/157534104-8659ae5d-90cd-408f-a9a9-7d506ad21d5b.png) 
 
 **Test Subject ID No.: 955 - Bottom Half – Screen 2**
+![image](https://user-images.githubusercontent.com/89948865/157534176-259da57c-d737-46f9-9305-4399bcbbfdc0.png)
  
 
