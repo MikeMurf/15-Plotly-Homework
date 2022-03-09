@@ -8,14 +8,14 @@ The overall requirements for this homework are as follows: -
 ## The full details of the requirements for this homework can be found at: 
 *    https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-virt-data-11-2021-u-c/-/tree/master/02-Homework/15-Interactive-Visualizations-and-Dashboards/Instructions
 
-##    Author:	Mike Murphy
+##    Author:		Mike Murphy
 
 ##    Tackling the Assignment 
 The Assignment was conducted in two parts. 
 Each part has been deployed separately to Github pages at the following links: 
-1.	**Plotly**		https://mikemurf.github.io/15-Plotly-Step-1-Homework/ 
+1.	**Plotly**			https://mikemurf.github.io/15-Plotly-Step-1-Homework/ 
 2.	**Advanced Challenge Assignment (Optional)** 
-			https://mikemurf.github.io/15-Plotly-Advanced-Challenge-Homework/ 
+					https://mikemurf.github.io/15-Plotly-Advanced-Challenge-Homework/ 
 
 ##    Step 1: Plotly - this was the minimum requirement for the assignment to: -
 1.	Use the D3 library to read in `samples.json`.
