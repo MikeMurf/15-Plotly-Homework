@@ -1,29 +1,26 @@
 # 15-Plotly-Homework
 ![image](https://user-images.githubusercontent.com/89948865/157530070-95b96633-980d-408c-8bda-8e02d39b4aa8.png)
 Photo by Elena Mozhvilo on Unsplash 
-## Requirements
+##    Requirements
 The overall requirements for this homework are as follows: -
+*    “In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button- 
+*     biodiversity/), which catalogs the microbes that colonise human navels. 
+*     The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, 
+*     while the rest were relatively rare.”
 
-“In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonise human navels.
+# The full details of the requirements for this homework can be found at: 
+*    https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-virt-data-11-2021-u-c/-/tree/master/02-Homework/15-Interactive-Visualizations-and-Dashboards/Instructions
 
-The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.”
+##    Author:	Mike Murphy
 
+##    Tackling the Assignment 
+The Assignment was conducted in two parts. 
+Each part has been deployed separately to Github pages at the following links: 
+1.	Plotly		https://mikemurf.github.io/15-Plotly-Step-1-Homework/ 
+2.	Advanced Challenge Assignment (Optional) 
+			https://mikemurf.github.io/15-Plotly-Advanced-Challenge-Homework/ 
 
-The full details of the requirements for this homework can be found at:
-https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-virt-data-11-2021-u-c/-/tree/master/02-Homework/15-Interactive-Visualizations-and-Dashboards/Instructions
-
-Author:	Mike Murphy
-
-Tackling the Assignment 
-The Assignment was conducted in two parts. Each part has been deployed separately to Github pages at the following links:
-1.	Plotly		https://mikemurf.github.io/15-Plotly-Step-1-Homework/
-
-2.	Advanced Challenge Assignment (Optional)
-
-			https://mikemurf.github.io/15-Plotly-Advanced-Challenge-Homework/
-
-
-Step 1: Plotly - was the assignment minimum requirement to: -
+##    Step 1: Plotly - this was the minimum requirement for the assignment to: -
 1.	Use the D3 library to read in `samples.json`.
 2.	Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 3.	Create a bubble chart that displays each sample.
