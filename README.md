@@ -3,11 +3,11 @@
 Photo by Elena Mozhvilo on Unsplash 
 ##    Requirements
 The overall requirements for this homework are as follows: -
-*    “In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-     biodiversity/), 
-*    which catalogs the microbes that colonise human navels. The dataset reveals that a small handful of microbial species (also called operational taxonomic units, 
-*    or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.”
+|“In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-     biodiversity/), 
+|which catalogs the microbes that colonise human navels. The dataset reveals that a small handful of microbial species (also called operational taxonomic units, 
+|or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.”
 
-# The full details of the requirements for this homework can be found at: 
+## The full details of the requirements for this homework can be found at: 
 *    https://monash.bootcampcontent.com/monash-coding-bootcamp/monu-virt-data-11-2021-u-c/-/tree/master/02-Homework/15-Interactive-Visualizations-and-Dashboards/Instructions
 
 ##    Author:	Mike Murphy
